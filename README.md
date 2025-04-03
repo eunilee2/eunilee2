@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi 👋 I'm Eunice 
+
+About Me
+
+Tech Stack
 
 <!--
 **eunilee2/eunilee2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
